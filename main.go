@@ -52,6 +52,4 @@ func main() {
 		fmt.Printf("Job %d => %d\n", result.JobID, result.Value)
 	}
 
-jkzhnxlkjaZX
-
 }
